@@ -7,6 +7,8 @@ url: "http://yourdomain.com"
 twitter_username: jekyllrb
 github_username:  jekyll
 
+github: Kathypennacchio.github.io
+
 # Build settings
 markdown: kramdown
 permalink: pretty
