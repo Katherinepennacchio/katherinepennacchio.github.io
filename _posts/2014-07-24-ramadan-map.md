@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CartoDB maps: Muslim population around the world'
+title: 'CartoDB maps: Muslim population around the world'
 ---
 
 As we are in the month of Ramadan, ninth month of the Islamic calendar and the moment when Muslims around the world fast during the day, I have decided to make a few maps about the growing Islam religion by country. 
