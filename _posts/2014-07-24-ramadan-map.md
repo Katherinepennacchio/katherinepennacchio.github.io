@@ -1,8 +1,17 @@
 ---
 layout: post
-title:  "CartoDB maps: Muslim population around the world"
-date:   2014-07-24 10:38:06
-categories: jekyll update 
+
+title: CartoDB maps: Muslim population around the world
+subtitle: "ew Forum on Religion & Public Life data"
+cover_image: blog-cover.jpg
+
+excerpt: "As we are in the month of Ramadan, ninth month of the Islamic calendar and the moment when Muslims around the world fast during the day, I have decided to make a few maps about the growing Islam religion by country"
+
+author:
+  name: Katherine Pennacchio
+  twitter: kathypennacchio
+  bio: Journalist
+  image: kp.png
 ---
 
 As we are in the month of Ramadan, ninth month of the Islamic calendar and the moment when Muslims around the world fast during the day, I have decided to make a few maps about the growing Islam religion by country. 

@@ -1,17 +1,14 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
+  title:        "Playing with data every damn day"
+  subtitle:     "My journey into data driven journalist. Because all great story starts with a dataset"
   cover_image:  blog-cover.jpg
-  logo:         logo.png
+  logo:         kp.png
   
   # Company information
-  company:      Incorporated
-  url:          http://sendtoinc.com/
-  facebook:     sendtoinc
-  twitter:      sendtoinc
-  gplus:        '101183822199340201470'
-  about_link:   https://sendtoinc.com/about/
+  company:      Katherine Pennacchio
+  facebook:     Katherine Pennacchio
+  twitter:      kathypennacchio
   
   # Product Information
   product_link: http://incorporated.sendtoinc.com/
