@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Playing With Data Every Damn Day
+image:kp.png
 ---
+ 
 
 **Katherine Pennacchio** is a Venezuelan journalist with a [Master](http://masinvestigacion.es/katherine-pennacchio/) in Investigative Journalism, Data and Visualization from Unidad Editorial and Rey Juan Carlos University in Madrid. 
 
