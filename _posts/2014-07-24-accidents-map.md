@@ -5,8 +5,9 @@ title: 'Map: Airplanes accidents in 2014 around the world'
 
 ![Imgur](http://i.imgur.com/GXeGbyE.png)
 
-
 The  world is still in shock because of the [Malaysia Airlines flight MH17](http://www.newsweek.com/what-brought-down-flight-mh17-over-eastern-ukraine-259630) catastrophe and the truth of who are the responsables is unknown yet. 
+
+<!-- more -->
 
 Immediately, after reading about the plane crash on the news, I went to the Aviation Safety Network [website](http://aviation-safety.net/index.php) to get the data of the accidents or other occurrences, resulting in a total loss of the plane, registered so far this year.  To extract the data from the website, I used the google chrome extension [Table Capture](https://chrome.google.com/webstore/detail/table-capture/iebpjdmgckacbodjpijphcplhebcmeop?hl=en)  that allows me to create a google spreadsheet from the table in just seconds. 
 

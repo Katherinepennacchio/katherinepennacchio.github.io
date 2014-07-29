@@ -7,6 +7,8 @@ title: Interactive story of Katy Perry’s World tour using Odyssey.js
 
 The “I kissed the girl” singer is touring the world at the moment. So, I decided to make an interactive map using Odyssey.js to tell the story of the places she is going to visit in the next months. 
 
+<!-- more -->
+
 I think this first experiment using Odyssey.js went pretty well, even though it was my first time playing with the new CartoDB tool. A couple of week ago, CartoDB released Odyssey.js: an open source library that enables creators to build interactive stories, no coding skills required; and makes map-based interactive storytelling easier to develop. Perfect for journalists like me that don’t know much about coding. 
 
 

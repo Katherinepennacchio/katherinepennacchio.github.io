@@ -5,6 +5,8 @@ title: 'CartoDB maps: Muslim population around the world'
 
 As we are in the month of Ramadan, ninth month of the Islamic calendar and the moment when Muslims around the world fast during the day, I have decided to make a few maps about the growing Islam religion by country. 
 
+<!-- more -->
+
 The last study about global Muslim population was published in 2011 by the US-based [Pew Forum on Religion & Public Life](http://www.pewforum.org/2011/01/27/the-future-of-the-global-muslim-population/). Even though It’s not a new research, their [data](http://features.pewforum.org/FutureGlobalMuslimPopulation-WebPDF.pdf) is very detailed and it shows the projected number of Muslims by 2030. So, I chose to use it to make three maps with [CartoDB](http://cartodb.com/).
 
 
