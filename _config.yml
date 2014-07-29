@@ -1,7 +1,7 @@
 inc:
   # Blog Information
   title:        "Playing with data every damn day"
-  subtitle:     "My journey into data driven journalist. Because all great story starts with a dataset"
+  subtitle:     "My journey into data driven journalist. Because all great story starts with a dataset."
   cover_image:  blog-cover.jpg
   logo:         kp.png
   
