@@ -14,8 +14,6 @@ author:
   image: kp.png
 ---
 
-
-
 ![Imgur](http://i.imgur.com/GXeGbyE.png)
 
 
