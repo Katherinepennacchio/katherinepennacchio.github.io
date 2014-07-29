@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Map: Airplanes accidents in 2014 around the world
+title: 'Map: Airplanes accidents in 2014 around the world'
 subtitle: "accidents or other occurrences, resulting in a total loss of the plane, registered so far this year"
 cover_image: blog-cover.jpg
 

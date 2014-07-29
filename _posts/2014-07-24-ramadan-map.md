@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: CartoDB maps: Muslim population around the world
+title: 'CartoDB maps: Muslim population around the world'
 subtitle: "ew Forum on Religion & Public Life data"
 cover_image: blog-cover.jpg
 
