@@ -1,17 +1,6 @@
 ---
 layout: post
-
 title: 'Map: Airplanes accidents in 2014 around the world'
-subtitle: "accidents or other occurrences, resulting in a total loss of the plane, registered so far this year"
-cover_image: blog-cover.jpg
-
-excerpt: "Immediately, after reading about the plane crash on the news, I went to the Aviation Safety Network website to get the data of the accidents or other occurrences, resulting in a total loss of the plane, registered so far this year"
-
-author:
-  name: Katherine Pennacchio
-  twitter: kathypennacchio
-  bio: Journalist
-  image: kp.png
 ---
 
 ![Imgur](http://i.imgur.com/GXeGbyE.png)

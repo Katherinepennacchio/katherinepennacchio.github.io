@@ -1,17 +1,6 @@
 ---
 layout: post
-
 title: Interactive story of Katy Perry’s World tour using Odyssey.js
-subtitle: "California girl concerts"
-cover_image: blog-cover.jpg
-
-excerpt: "The “I kissed the girl” singer is touring the world at the moment. So, I decided to make an interactive map using Odyssey.js to tell the story of the places she is going to visit in the next months"
-
-author:
-  name: Katherine Pennacchio
-  twitter: kathypennacchio
-  bio: Journalist
-  image: kp.png
 ---
 
 <a href="http://bl.ocks.org/anonymous/raw/dd8938891b20f17164e2"><img src="http://imgur.com/aQvbTaW.png"></a>
