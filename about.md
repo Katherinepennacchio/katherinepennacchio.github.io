@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Playing With Data Every Damn Day
-image:kp.png
 ---
  
 
