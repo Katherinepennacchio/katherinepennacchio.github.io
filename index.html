@@ -10,7 +10,7 @@ title: Playing with data every damn day
     <span class="date">{{ post.date }}</span>
   </p>
   <div class="content">
-    {{ post.content }}
+{{ post.excerpt | markdownify }}
   </div>
 {% endfor %}
 
