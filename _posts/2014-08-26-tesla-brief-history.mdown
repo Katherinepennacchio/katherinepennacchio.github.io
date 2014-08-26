@@ -12,7 +12,7 @@ But how did everything start? Where was the first Tesla showroom? How did they b
 
 
 
-<a href="http://bl.ocks.org/anonymous/raw/82375e2423c9702de88f/"><img src="/images/tesla.png"></a>
+ <a href="http://bl.ocks.org/anonymous/raw/82375e2423c9702de88f/"><img src="/images/tesla.png"></a>
 
 
 
@@ -22,19 +22,22 @@ Building the story was not difficult. I chose the option to display visualizatio
 
 
 
-<div class="wrap"><p class="wrap-border"><img src="/images/odysseytesla.png" alt=""></p></div>
+ <div class="wrap"><p class="wrap-border"><img src="/images/odysseytesla.png" alt=""></p></div>
 
 
 
-Then you just have to start writing your story using [markdown](http://daringfireball.net/projects/markdown/). **A Tip** I usually write my story first in a text editor for code and then I paste it into the sandbox. I am using [Sublime Text](http://www.sublimetext.com/) at the moment which is free and easy to use. 
+Then you just have to start writing your story using [markdown](http://daringfireball.net/projects/markdown/).
+
+#A Tip
+
+I usually write my story first in a text editor for code and then I paste it into the sandbox. I am using [Sublime Text](http://www.sublimetext.com/) at the moment which is free and easy to use. 
 
 Remember to "move the map to current position" to add the exact location that you want to see while every slide is being displayed
 
 
-
-<div class="wrap"><p class="wrap-border"><img src="/images/locationodyssey.png" alt=""></p></div>
-
+ <div class="wrap"><p class="wrap-border"><img src="/images/locationodyssey.png" alt=""></p></div>
 
 
-If you have any doubts or questions, do not hesitate to write to me on [twitter](https://twitter.com/KathyPennacchio) account or thoughout the hashtag #ddjeverydamnday.
+
+If you have any doubts or questions, do not hesitate to write to me on [twitter](http://twitter.com/KathyPennacchio) account or thoughout the hashtag #ddjeverydamnday.
 
