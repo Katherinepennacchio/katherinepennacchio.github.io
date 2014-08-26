@@ -3,7 +3,7 @@ layout: post
 title: "A brief story of Tesla: an interactive map"
 ---
 
-Tesla designs and manufactures premium electric vehicles. Model X, Model S and Model 3 are some of the cars that have been produced for this company. Tesla is the first true success story of the era of electric vehicules, and also the most successful new American car company in the last years.
+[Tesla](http://www.teslamotors.com/) designs and manufactures premium electric vehicles. Model X, Model S and Model 3 are some of the cars that have been produced for this company. Tesla is the first true success story of the era of electric vehicules, and also the most successful new American car company in the last years.
 
 <!-- more -->
 
@@ -19,7 +19,7 @@ Building the story was not difficult. I chose the option to display visualizatio
 <div class="wrap"><p class="wrap-border"><img src="/images/odysseytesla.png" alt=""></p></div> 
 
 
-Then you just have to start writing your story using markdown.
+Then you just have to start writing your story using [markdown](http://daringfireball.net/projects/markdown/).
 
 
 #A Tip
