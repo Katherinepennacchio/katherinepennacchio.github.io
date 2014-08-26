@@ -7,7 +7,7 @@ Tesla designs and manufactures premium electric vehicles. Model X, Model S and M
 
 <!-- more -->
 
-But how did everything start? Where was the first Tesla showroom? How did they begin to grow so rapidly? I created the interactive story bellow to answer all these questions.
+But how did everything start? Where was the first Tesla showroom? How did they begin to grow so rapidly? I created the interactive story bellow to answer all these questions.  
 
 
 <a href="http://bl.ocks.org/anonymous/raw/82375e2423c9702de88f/"><img src="/images/tesla.png"></a>
