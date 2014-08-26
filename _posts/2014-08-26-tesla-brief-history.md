@@ -9,9 +9,8 @@ title: "A brief story of Tesla: an interactive map"
 
 But how did everything start? Where was the first Tesla showroom? How did they begin to grow so rapidly? I created the interactive story bellow to answer all these questions.  
 
-<iframe class="wide" height='700' frameborder='0' src='hhttp://bl.ocks.org/anonymous/raw/82375e2423c9702de88f/'></iframe>
+<iframe class="wide" height='700' frameborder='0' src='http://bl.ocks.org/anonymous/raw/82375e2423c9702de88f/'></iframe>
  
-
 To create the map, I used the open source library that allows you to weave interactive stories on the web: [Odyssey.js](http://cartodb.github.io/odyssey.js/)
 
 Building the story was not difficult. I chose the option to display visualization chapters like slides in a presentation and I added a simple point map on my sandbox that I previously made on CartoDB. To add a [CartoDB](http://cartodb.com/) map on your Odyssey.js, you just need to paste (bellow the author name) the [CartoDB.js](http://docs.cartodb.com/cartodb-platform/cartodb-js.html) link on sanbox that you get when you share a visualization. 
