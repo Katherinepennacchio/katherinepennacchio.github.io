@@ -3,15 +3,13 @@ layout: post
 title: "A brief story of Tesla: an interactive map"
 ---
 
-<a href="http://bl.ocks.org/anonymous/raw/82375e2423c9702de88f/"><img src="/images/firstpic.png"></a>
-
 [Tesla](http://www.teslamotors.com/) designs and manufactures premium electric vehicles. Model X, Model S and Model 3 are some of the cars that have been produced for this company. Tesla is the first true success story of the era of electric vehicules, and also the most successful new American car company in the last years.
 
 <!-- more -->
 
 But how did everything start? Where was the first Tesla showroom? How did they begin to grow so rapidly? I created the interactive story bellow to answer all these questions.  
 
-<iframe width='100%' height='500' frameborder='0' src='http://bl.ocks.org/anonymous/raw/82375e2423c9702de88f/'></iframe>
+<iframe class="wide" height='700' frameborder='0' src='hhttp://bl.ocks.org/anonymous/raw/82375e2423c9702de88f/'></iframe>
  
 
 To create the map, I used the open source library that allows you to weave interactive stories on the web: [Odyssey.js](http://cartodb.github.io/odyssey.js/)

@@ -400,3 +400,8 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.wide {
+  width: 1020px;
+  margin-left: -150px;
+}
