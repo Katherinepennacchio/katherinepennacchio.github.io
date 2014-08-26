@@ -11,20 +11,20 @@ Tesla designs and manufactures premium electric vehicles. Model X, Model S and M
 But how did everything start? Where was the first Tesla showroom? How did they begin to grow so rapidly? I created the interactive story bellow to answer all these questions.
 
 
- <a href="http://bl.ocks.org/anonymous/raw/82375e2423c9702de88f/"><img src="/images/tesla.png"></a>
+<a href="http://bl.ocks.org/anonymous/raw/82375e2423c9702de88f/"><img src="/images/tesla.png"></a>
 
 
 To create the map, I used the open source library that allows you to weave interactive stories on the web [Odyssey.js](http://cartodb.github.io/odyssey.js/)
 
-Building the story was not difficult. I chose the option to display visualization chapters like slides in a presentation and I added a simple point map on my sandbox that I previously made on [CartoDB](http://cartodb.com/). To add a CartoDB map on your Odyssey.js, you just need to paste (bellow the author name) the [Cartodb.js](http://docs.cartodb.com/cartodb-platform/cartodb-js.html) link on sanbox that you get when you share a visualization. 
+Building the story was not difficult. I chose the option to display visualization chapters like slides in a presentation and I added a simple point map on my sandbox that I previously made on CartoDB. To add a CartoDB map on your Odyssey.js, you just need to paste (bellow the author name) the CartoDB.js link on sanbox that you get when you share a visualization. 
 
 
 
- <div class="wrap"><p class="wrap-border"><img src="/images/odysseytesla.png" alt=""></p></div>
+<div class="wrap"><p class="wrap-border"><img src="/images/odysseytesla.png" alt=""></p></div>
 
 
 
-Then you just have to start writing your story using [markdown](http://daringfireball.net/projects/markdown/).
+Then you just have to start writing your story using markdown.
 
 #A Tip
 
@@ -33,9 +33,9 @@ Then you just have to start writing your story using [markdown](http://daringfir
 Remember to "move the map to current position" to add the exact location that you want to see while every slide is being displayed
 
 
- <div class="wrap"><p class="wrap-border"><img src="/images/locationodyssey.png" alt=""></p></div>
+<div class="wrap"><p class="wrap-border"><img src="/images/locationodyssey.png" alt=""></p></div>
 
 
 
-If you have any doubts or questions, do not hesitate to write to me on [twitter](http://twitter.com/KathyPennacchio) account or thoughout the hashtag #ddjeverydamnday.
+If you have any doubts or questions, do not hesitate to write to me on @kathypennacchio or thoughout the hashtag #ddjeverydamnday.
 
