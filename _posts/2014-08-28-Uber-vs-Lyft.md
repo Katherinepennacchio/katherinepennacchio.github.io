@@ -25,7 +25,7 @@ I decided to create this map to compare the reach and fees of both services in t
 
 #Uber 
 
--They are in 85 cities around the US and a couple of more around the world. 
+-They are in 85 cities around the US and in a couple of more around the world. 
 
 -Image is more professional than other companies of their type. Drivers are usually wearing a suit and tie.
 
