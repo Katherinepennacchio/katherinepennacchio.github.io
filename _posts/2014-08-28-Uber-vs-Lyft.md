@@ -21,7 +21,7 @@ Lately, the subject that has been attracting headlines is the dispute between Ub
 
 I decided to create this map to compare the reach and fees of both services in the United States. Use the "visible layer" to go from one service to the other. And press each button to take a look at the information window.
 
-<iframe width='100%' height='520' frameborder='0' src='http://team.cartodb.com/u/kathy/viz/eab8b608-2eb1-11e4-9cf7-0e73339ffa50/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width='100%' height='520' frameborder='0' src='http://katherine.cartodb.com/viz/ad141ea4-47f8-11e4-808b-0e4fddd5de28/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 #Uber 
 

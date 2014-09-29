@@ -24,7 +24,7 @@ I used the “date” column to animate it. Remember, If you have a column with 
 
 The final result was this one: 
 
-<iframe width='100%' height='520' frameborder='0' src='https://kathy.cartodb.com/viz/29f41030-0e76-11e4-af72-0e230854a1cb/embed_map?title=true&description=true&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=true&fullscreen=true&sublayer_options=1&sql=&zoom=1&center_lat=29.382175075145266&center_lon=0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width='100%' height='520' frameborder='0' src='http://team.cartodb.com/u/kathy/viz/29f41030-0e76-11e4-af72-0e230854a1cb/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 See this [tutorial](http://vimeo.com/79115503) to know more about how to make an animated map in CartoDB. 
 
