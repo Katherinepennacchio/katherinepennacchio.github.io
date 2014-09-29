@@ -10,4 +10,3 @@ Since leaving the classroom  Katherine Pennacchio has worked on projects of citi
 
 She’s now trying to understand the world of developers and mastering the art of storytelling via maps. This blog was made to show her journey into data driven journalism and to prove that’s possible to **play with data every damn day** and do great things with it. 
 
-![Imgur](http://i.imgur.com/pKTKDyV.png)
