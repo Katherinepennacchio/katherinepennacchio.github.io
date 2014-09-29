@@ -39,9 +39,7 @@ I decided to create this map to compare the reach and fees of both services in t
 
 Check this map out to see how Uber has been spreading around the world: 
 
-<iframe class="wide" height='520' frameborder='0' src='http://team.cartodb.com/u/kathy/viz/9832b222-2ec9-11e4-a888-0edbca4b5057/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-
+<iframe width='100%' height='520' frameborder='0' src='http://team.cartodb.com/u/kathy/viz/9832b222-2ec9-11e4-a888-0edbca4b5057/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 #Lyft 
 
