@@ -1,17 +1,13 @@
 ---
 layout: page
-title: About
+title: About the author
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+**Katherine Pennacchio** is a Venezuelan journalist with a [Master](http://masinvestigacion.es/katherine-pennacchio/) in Investigative Journalism, Data and Visualization from Unidad Editorial and Rey Juan Carlos University in Madrid. 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+Since leaving the classroom  Katherine Pennacchio has worked on projects of citizen journalism and investigative journalism with the [Press and Society Institute of Venezuela](http://www.ipys.org.ve/). Pennacchio has also worked as a radio producer and was part of the Department of Communications [UNESCO-IESALC](http://www.iesalc.unesco.org.ve/) in Caracas.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+She’s now trying to understand the world of developers and mastering the art of storytelling via maps. This blog was made to show her journey into data driven journalism and to prove that’s possible to **play with data every damn day** and do great things with it. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+![Imgur](http://i.imgur.com/pKTKDyV.png)
