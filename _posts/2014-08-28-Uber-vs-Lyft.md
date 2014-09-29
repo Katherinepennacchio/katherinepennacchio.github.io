@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Visualizing Uber Vs. Lyft war"
+categories: maps, cartodb
+tags: map, uber
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
 
 
