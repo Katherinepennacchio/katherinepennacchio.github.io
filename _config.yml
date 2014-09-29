@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Playing with data every damn day"
 description: > # this means to ignore newlines until "email:"
-   Because a great story starts with a data set 
+   Because every great story starts with a data set 
 
 email: kathypennacchio30@gmail.com
 # blog cover
