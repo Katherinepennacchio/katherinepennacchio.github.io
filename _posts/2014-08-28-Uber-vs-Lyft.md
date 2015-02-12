@@ -4,7 +4,7 @@ title: "Visualizing Uber Vs. Lyft war"
 ---
 
 
-Prueba! The internet and smartphones have opened up numerous opportunities for disruptive services that provide on-demand individual transportation. [Uber](https://www.uber.com/) and [Lyft](https://www.lyft.com/) are the most important services of this type at the moment. 
+The internet and smartphones have opened up numerous opportunities for disruptive services that provide on-demand individual transportation. [Uber](https://www.uber.com/) and [Lyft](https://www.lyft.com/) are the most important services of this type at the moment. 
 
 Wheter you are a driver or a rider, Uber and Lyft allow you -using mobile phones-  to connect to a web service to arrange rides. 
 
